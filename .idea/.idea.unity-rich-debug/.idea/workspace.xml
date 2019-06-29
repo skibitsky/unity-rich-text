@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae87ab03-343d-484f-a058-dd8f2e3f8736" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.unity-rich-debug/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.unity-rich-debug/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.unity-rich-debug/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.unity-rich-debug/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/rich-debug/Demo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/rich-debug/Demo.cs.meta" afterDir="false" />
-    </list>
+    <list default="true" id="ae87ab03-343d-484f-a058-dd8f2e3f8736" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +53,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Assets/rich-debug/Demo.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="48">
-                  <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+                <state relative-caret-position="256">
+                  <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
                   <folding>
                     <marker date="1561820003420" expanded="true" signature="6:34" ph="..." />
                     <marker date="1561820003420" expanded="true" signature="69:439" ph="{...}" />
@@ -183,12 +176,12 @@
       <option name="presentableId" value="Default" />
       <updated>1561815728969</updated>
       <workItem from="1561815733288" duration="259000" />
-      <workItem from="1561816024227" duration="3782000" />
+      <workItem from="1561816024227" duration="4135000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4041000" />
+    <option name="totallyTimeSpent" value="4394000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -201,9 +194,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21062271" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -267,8 +259,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/rich-debug/Demo.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        <state relative-caret-position="256">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding>
             <marker date="1561820003420" expanded="true" signature="6:34" ph="..." />
             <marker date="1561820003420" expanded="true" signature="69:439" ph="{...}" />
