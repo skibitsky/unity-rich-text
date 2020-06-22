@@ -1,0 +1,15 @@
+{
+  "name": "com.skibitsky.unity-rich-text",
+  "version": "1.0.1",
+  "displayName": "Unity Rich Text",
+  "description": "Forget about rich text tags pain",
+  "repository": "skibitsky/unity-rich-text",
+  "author": {
+    "name": "Gleb Skibitsky",
+    "email": "gleb@skibitsky.com",
+    "url": "https://skibitsky.com"
+  },
+  "unity": "",
+  "license": "MIT",
+  "dependencies": {}
+}

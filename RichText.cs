@@ -1,5 +1,4 @@
-﻿
-namespace RichText
+﻿namespace Skibitsky.Unity
 {
     public static class RichText
     {
