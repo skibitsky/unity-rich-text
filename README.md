@@ -1,6 +1,5 @@
 ## This package has been deprecated in favour of [string-formatter](https://github.com/skibitsky/string-formatter)
 
----
 # Unity Rich Text [![openupm](https://img.shields.io/npm/v/com.skibitsky.unity-rich-text?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.skibitsky.unity-rich-text/)
 
 Unity Rich Text allows you easily highlight any variable when using `Debug.Log` or any other place that supports rich text (i.e. GUIStyle or TextMeshPro).
